@@ -7,7 +7,7 @@
   "stack": "container",
   "buildpacks": [
    {
-     "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+     "url": "https://github.com/Learningbots79/heroku-buildpack-ffmpeg-latest"
    }   
   ],        
   "env": {
